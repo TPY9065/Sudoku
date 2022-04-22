@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="README" />
     <ClCompile Include="src\sApp.cpp" />
     <ClCompile Include="src\sMain.cpp" />
   </ItemGroup>
